@@ -69,3 +69,7 @@ An interactive Power BI dashboard was created to analyze:
 - `Customer_Churn_Analysis.ipynb` — Python analysis
 - `customer_churn.sql` — SQL queries
 - `Customer_Churn_Analysis.pbix` — Power BI dashboard
+
+## Power BI Dashboard
+
+![Customer Churn Dashboard](Customer_Churn_Dashboard.png)
